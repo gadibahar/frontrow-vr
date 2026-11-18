@@ -1,0 +1,3 @@
+{"src": "media/lear/stage2/k1_a.mp4", "mode": "plate", "rect_px": [1334.3866, 1011.8673, 1918.26, 1595.7407], "face_px": 3072, "chroma": false, "hold_s": 1.0, "hide": false,
+ "audio_layers": [{"src": "media/lear/stage2/k1_a_voice.wav", "gain": 1.58}],
+ "note": "2026-11-17 night TEST: Kling clip made IN the set (k1_a, 10 s, v31 117.90-127.94 s), lip-synced (Kling lipsync on a face crop), baked on the clean plate, shown as a video patch of the stage picture"}
